@@ -11,7 +11,7 @@
 -- @module ihex.lua
 -- @author vereena0x13
 -- @license MIT
--- @copyright Vereena Inara 2021-2024
+-- @copyright Vereena Inara 2021-2025
 
 -- TODO: Don't know how this slipped my mind: can't we
 -- use string.pack/string.unpack if they're available?
@@ -37,7 +37,7 @@ local ihex = {
     _LICENSE        = [[
         MIT License
 
-        Copyright (c) 2021-2024 Vereena Inara
+        Copyright (c) 2021-2025 Vereena Inara
 
         Permission is hereby granted, free of charge, to any person obtaining a copy
         of this software and associated documentation files (the "Software"), to deal
